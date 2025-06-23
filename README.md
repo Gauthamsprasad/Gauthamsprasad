@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, I'm Gautham and I'm a passionate Learner and Coder</h2>
+<h2 align="left">Hi👋, I'm Gautham — I speak fluent code and occasionally human</h2>
 
 ###
 
